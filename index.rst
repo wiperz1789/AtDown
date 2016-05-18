@@ -11,7 +11,7 @@ Introduction
 The ATDown is a software library that provides internet torrent download and peer functionality, which uses Torrent engine. It is designed to provide an
 easy to use API for donwloading and listing torrents.
 
-The project was founded by Dr. Joseph Cohen (The University of Massachusetts, Boston)
+The project was founded by Joseph Paul Cohen PhD (The University of Massachusetts, Boston)
 
 |  Contributors:
 |      Henry Z. Lo (cofounder)
